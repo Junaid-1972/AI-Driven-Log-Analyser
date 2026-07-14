@@ -1,12 +1,11 @@
 # AI-Driven-Log-Analyser
-This project showcase how deep security operation centre (SOC) automation has truly become, This is an AI-powered cybersecurity log analysis agent that automates anomaly detection and generates professional SOC reports. Built to support NIST CSF Detect/Respond and ISO 27001 Annex A.5 & A.8, this tool helps security teams transform raw logs into actionable intelligence efficiently.
+This project showcase how deep security operation centre (SOC) automation has truly become. This is an AI-powered cybersecurity log analysis agent that automates anomaly detection and generates professional SOC reports. Built to support NIST CSF Detect/Respond and ISO 27001 Annex A.5 & A.8, this tool helps security teams transform raw logs into actionable intelligence efficiently.
 
 
 # Development of AI Agent for Cybersecurity Log Analysis
 
 **Project Report**
-
-**Report Date:** July 14, 2026  
+ 
 **Prepared by:** Junaid
 
 ---
