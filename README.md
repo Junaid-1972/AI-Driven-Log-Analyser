@@ -36,7 +36,7 @@ The demo showcases end-to-end functionality despite initial setup challenges wit
 - **Data Handling:** CSV log files containing network traffic, IP addresses, ports, protocols, actions, and user details.
 - **AI Layer:** OpenRouter API for LLM-based analysis and report generation.
 
-**[Screenshot: Full Python Script in VS Code Editor]**
+- ![image alt]()
 
 ---
 
