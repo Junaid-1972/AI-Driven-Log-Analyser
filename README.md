@@ -25,7 +25,6 @@ The demo showcases end-to-end functionality despite initial setup challenges wit
 - Generate structured SOC (Security Operations Center) reports summarizing key findings.
 - Support common cybersecurity use cases: log analysis, threat detection, IP investigation, and activity summarization.
 
-**[Screenshot: Executive Summary & Objectives]**
 
 ---
 
@@ -36,7 +35,7 @@ The demo showcases end-to-end functionality despite initial setup challenges wit
 - **Data Handling:** CSV log files containing network traffic, IP addresses, ports, protocols, actions, and user details.
 - **AI Layer:** OpenRouter API for LLM-based analysis and report generation.
 
-- ![image alt]()
+ ![image alt](https://github.com/Junaid-1972/AI-Driven-Log-Analyser/blob/main/Script.jpg?raw=true)
 
 ---
 
@@ -58,7 +57,7 @@ The demo showcases end-to-end functionality despite initial setup challenges wit
    - Command: `streamlit run Buildings.py`
    - Local server started successfully at `http://localhost:8501`.
 
-**[Screenshot: Terminal Output Showing Streamlit Server Startup]**
+ ![image alt](https://github.com/Junaid-1972/AI-Driven-Log-Analyser/blob/main/Syreamlit%20terminal%20.jpg?raw=true)
 
 ---
 
@@ -68,24 +67,21 @@ The demo showcases end-to-end functionality despite initial setup challenges wit
 - Clean UI titled **“JUNAID AI Agent for Cybersecurity Use Cases”**.
 - File upload section for logs.
 
-**[Screenshot: Full View of Junaid AI Agent Web Interface]**
+ ![image alt](https://github.com/Junaid-1972/AI-Driven-Log-Analyser/blob/main/Web%20interface.jpg?raw=true)
 
 ### Step 2: Log Upload
 - Sample log file (`company_h_logs.csv`) uploaded successfully.
 
-**[Screenshot: Log File Upload Success Screen]**
 
 ### Step 3: Analysis Execution
 - Analysis prompt submitted.
 - AI agent processed the data and generated a comprehensive report.
 
-**[Screenshot: Analysis Execution and Agent Findings]**
 
-### Key Findings from Sample Report (June 24, 2026)
+### Key Findings from Sample Report
 
-**[Screenshot: Generated SOC Report – Key Findings & Overview]**
+ ![image alt](https://github.com/Junaid-1972/AI-Driven-Log-Analyser/blob/main/SOC%20report.jpg?raw=true)
 
-**[Screenshot: Generated SOC Report – Threats & Recommendations]**
 
 ---
 
@@ -109,9 +105,3 @@ The demo showcases end-to-end functionality despite initial setup challenges wit
 This AI Agent project represents a strong foundation for an intelligent cybersecurity assistant. The successful demonstration, from overcoming setup hurdles to delivering a polished SOC-style report, highlights both technical competence and practical problem-solving skills.
 
 This project effectively bridges traditional log analysis with modern AI capabilities, offering significant potential for real-world security operations.
-
-**[Screenshot: Final Report Conclusion or Application Overview]**
-
----
-
-**End of Report**
