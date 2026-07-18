@@ -12,9 +12,9 @@ This project showcase how deep security operation centre (SOC) automation has tr
 
 ## Executive Summary
 
-A functional AI-powered cybersecurity log analysis agent built with Python was successfully developed and demonstrated. The application enables users to upload log files (CSV format), perform automated analysis for anomalies and threats, and generate professional SOC-style reports.
+I successfully developed and demonstrated a functional AI-powered cybersecurity log analysis agent built with Python. The application allows users to upload log files in CSV format, conduct automated analysis to detect anomalies and potential threats, and generate professional SOC-style reports.
 
-The demo showcases end-to-end functionality despite initial setup challenges with library installations and environment configuration. The agent leverages LLM capabilities (via OpenRouter) to deliver actionable insights on suspicious user activity, denied actions, unusual protocols and potential threats.
+The demo showcased complete end-to-end functionality — from log ingestion and AI-driven analysis to report generation — despite initial challenges with library installations and environment configuration. The agent effectively leverages LLM capabilities (via OpenRouter) to deliver actionable insights, highlighting suspicious user activity, denied actions, unusual protocols, and other potential security threats.
 
 ---
 
